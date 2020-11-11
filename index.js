@@ -1,6 +1,6 @@
 
 function tampilkanSemuaMenu(){
-$("#daftar-menu").html("");
+  $("#daftar-menu").html("");
   $.getJSON('data/menu.json', function(data) {
       // console.log(data);
       let daftarMenu = data.menu;
