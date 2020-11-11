@@ -1,0 +1,107 @@
+{
+    "menu": [
+        {
+            "kategori": "pizza",
+            "nama" : "krakatau burst",
+            "deskripsi" : "Daging ayam dibalut dengan chicken luncheon, paprika merah & hijau, keju Mozzarella.",
+            "harga":30000,
+            "gambar" : "krakatau burst.png"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
+        },
+        
+        {
+            "kategori": "pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
+        },
+
+        {
+            "kategori": "bakso",
+            "nama": "Bakso Keju Dan Mie Instan",
+            "deskripsi" : "keju nya nampol,pedas nya maknyus, bakso nya gede",
+            "harga": 15000,
+            "gambar": "baksokeju.jpg"
+        },
+
+        {
+            "kategori": "bakso",
+            "nama": "Bakso Pedas dan Mie Instan",
+            "deskripsi": "Bakso nya gede, pedasnya nampool, bikin ketagihan",
+            "harga": 25000,
+            "gambar" : "baksopedas.jpg"
+        },
+
+        {
+            "kategori": "pasta",
+            "nama": "Beef Spaghetti",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 43000,
+            "gambar": "beef-spaghetti.jpg"
+        },
+        {
+            "kategori": "pasta",
+            "nama": "Beef Lasagna",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "beef-lasagna.jpg"
+        },
+        {
+            "kategori": "pasta",
+            "nama": "Creamy Beef Fettuccine",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "harga": 43000,
+            "gambar": "creamy-beef-fettuccine.jpg"
+        },
+
+        {
+            "kategori": "minuman",
+            "nama": "Choco Mint",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Toffee Coffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Green Tea Shake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
